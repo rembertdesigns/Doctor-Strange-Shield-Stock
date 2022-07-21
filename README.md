@@ -1,1 +1,1 @@
-# Marvel-s-Doctor-Strange-Shield-Stock
+This is a protective shiled called the Tao Mandala that you can see from various movies with Dr. Strange involved. This was created using HTML, CSS, & the use of a effect gif. The issue I've had with this creation is that I wasn't able to lock down the gif so it is in perfect semetry with the other circles involved but still works if you just move the screen around. 
